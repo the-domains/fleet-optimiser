@@ -1,19 +1,4 @@
-name: Fleet Optimiser
-favicon: null
-layout_spectrum: 0.19327274477109313
 typography_spectrum: 0.599771139677614
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,19 @@ color:
   lightness: 0.901429993333295
   saturation: 0.9384978443849832
   rhythmicContrast: 0.3123905116226524
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.19327274477109313
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Fleet Optimiser
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
