@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About me...
+    url: www.forestgrass.net
+    type: external
 favicon: null
 title: Synthetic Lawn
 description: '"spot the difference"'
